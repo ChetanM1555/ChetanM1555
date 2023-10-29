@@ -1,5 +1,5 @@
 Hi there, I'm Chetan! 👋
-I'm a passionate individual with a keen interest in technology, programming, and problem-solving. As a chemical engineer, I have a strong background in scientific principles and a knack for innovative solutions.
+I'm a passionate software engineer with a love for creating efficient and scalable solutions. My expertise lies in building robust applications and exploring new technologies to solve real-world problems.
 
 👀 I'm interested in:
     - Software Development
